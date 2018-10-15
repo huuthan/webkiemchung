@@ -9,11 +9,11 @@ module.exports = {
         database: 'qldd'
     },
     db_postgres: {
-        host: 'ec2-23-23-216-40.compute-1.amazonaws.com',
-        user: 'cjgmzlabuhqtfi',
-        password: 'd622e3da2a297c8ace6627c86463b44033c60f0c501ab16a545521d0b23cacf3',
+        host: 'ec2-54-163-228-190.compute-1.amazonaws.com',
+        user: 'yqnjvgwczckbjb',
+        password: 'a3d44a2c9e37b5373f4bfb15006257e0151eb501c445ff3586efe20f63e3a244',
         port:'5432',
-        database: 'depna5rf8ertn0'
+        database: 'd763cggd628ckr'
     },
     //db_postgres: {
     //    host: 'localhost',
@@ -22,7 +22,7 @@ module.exports = {
     //    port:'5432',
     //    database: 'qldd'
     //},
-    host: 'https://tpltesting.herokuapp.com',
+    host: 'https://webkiemchung.herokuapp.com',
     email_setting: {
         host: 'smtp.office365.com', // Office 365 server
         port: 587, // secure SMTP
